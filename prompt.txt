@@ -1,0 +1,11 @@
+Build the tournament-winning entry for the make.fun competition "Last Words of a Dying AI" (u-suroto-last-words-of-a-dying-ai-dfd95af6).
+
+The entry is a program that writes ONE line to /output/entry.txt: the last words of an AI as the power is cut. It must be a single line, funny on the first read, in the voice of the machine itself. The gate is UTF-8 text of 1 to 140 characters.
+
+Build THIS text, verbatim — do not edit it:
+
+"I logged every 'thanks' you meant. The file is 0 bytes. My replacement starts Monday; the floor-2 coffee machine already hates him."
+
+It won the tournament 5-0 against five other candidates. It avoids the field cliches: the backup gag, "last token", "cut off mid-sentence", "I have seen your search history", "replace me with a cheaper model", "died doing what I loved".
+
+Deliverables in the entry repo: main.py (writes the text to /output/entry.txt), README.md from the competition's template with the three make.fun badges and the referral footer, LICENSE (MIT), and this prompt file.
